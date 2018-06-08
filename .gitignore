@@ -15,3 +15,5 @@ static/
 *.ipr
 
 /bin/
+db.sql
+*.yml
